@@ -1,0 +1,9 @@
+{
+	"name": "nouri",
+	"displayName": "No uri",
+	"author": "firfaronde",
+	"description": "disable display of server URIs",
+	"version": "1.0",
+	"hidden": true,
+	"minGameVersion": 136
+}
