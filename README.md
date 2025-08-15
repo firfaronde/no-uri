@@ -1,0 +1,1 @@
+- Redirects all links sent by the server to the chat.
